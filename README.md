@@ -90,7 +90,7 @@ Scan the QR code using the **Expo Go** app on your mobile device or run it on an
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/JSguWHYlVdY/0.jpg)](https://www.youtube.com/watch?v=JSguWHYlVdY)
 
