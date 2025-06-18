@@ -10,7 +10,7 @@ A simple and elegant **React Native** app to manage personal tasks efficiently. 
 - 📅 Prioritize tasks with custom labels
 - 🔒 Local storage support with async persistence
 - 📂 Modular architecture for scalability
-- 💡 Clean and reusable UI components
+- 💡 Error handling, Clean and reusable UI components
 
 ---
 
